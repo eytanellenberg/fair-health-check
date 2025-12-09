@@ -489,7 +489,7 @@ const FairHealthCheck = () => {
 
           <div style={{ textAlign: 'center', fontSize: '0.75rem', color: '#9CA3AF', padding: '1rem 0' }}>
             <p style={{ margin: '0 0 0.5rem 0' }}>FAIR Health Check | Version 1.0 | © 2024 FAIR Research Organization</p>
-            <p style={{ margin: 0 }}>For questions or feedback: contact@fairhealthcheck.org</p>
+            <p style={{ margin: 0 }}>For questions or feedback: eytan_ellenberg@yahoo.fr</p>
           </div>
         </div>
       </div>
